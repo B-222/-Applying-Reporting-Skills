@@ -1,0 +1,20 @@
+2026-02-05 08:11:20 | ERROR | api | Unhandled exception
+2026-02-05 08:11:21 | INFO | auth | User login success
+2026-02-05 08:11:22 | WARN | api | Slow response
+2026-02-05 08:11:23 | INFO | db | Query executed
+2026-02-05 08:11:24 | ERROR | api | Connection timeout
+2026-02-05 08:11:25 | INFO | api | Request received
+2026-02-05 08:11:26 | WARN | db | High memory usage
+2026-02-05 08:11:27 | INFO | auth | Session token generated
+2026-02-05 08:11:28 | ERROR | db | Transaction failed
+2026-02-05 08:11:29 | INFO | api | Response sent
+2026-02-05 08:11:30 | WARN | api | Cache miss
+2026-02-05 08:11:31 | INFO | auth | User logout success
+2026-02-05 08:11:32 | ERROR | api | Invalid request format
+2026-02-05 08:11:33 | INFO | db | Backup completed
+2026-02-05 08:11:34 | WARN | auth | Multiple failed login attempts
+2026-02-05 08:11:35 | ERROR | auth | Authentication service down
+2026-02-05 08:11:36 | INFO | api | Admin access granted
+2026-02-05 08:11:37 | WARN | db | Slow query detected
+2026-02-05 08:11:38 | INFO | api | Report generated
+2026-02-05 08:11:39 | ERROR | api | Rate limit exceeded
